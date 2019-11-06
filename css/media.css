@@ -1,0 +1,6 @@
+@media all and (max-width: 600px){
+    .divv1,.divvv1,.footerContainer{
+        flex-direction: column;
+        flex: 100%;
+    }
+}

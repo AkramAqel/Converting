@@ -1,0 +1,202 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.Sec1{
+    background-image: url("../img/image1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.backgroundimgDiv{
+    background-image: url("../img/image2.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.Div1{
+    color: #fff;
+    margin: auto;
+    width: 80%;
+    padding: 20%;
+}
+.heading2{
+    padding-bottom: 4%;
+}
+.btn{
+    border: 1px solid #fff;
+    margin-top: 10%;
+    width: 20%;
+    height: 30px;
+    font-size: 11px;
+    background-color: transparent;
+    color: #fff;
+    text-transform: uppercase;
+}
+.btn:active,.btnn:active{
+    background-color: aqua;
+}
+.Sec2{
+    background-color: #eee;
+    height: 450px;
+    padding: 2%;
+}
+.Div2{
+    width: 30%;
+    float: left;
+    margin: 4%;
+}
+.heading1,.head1{
+    font-size: 35px;
+    margin-bottom: 5%;
+    text-transform: uppercase;
+}
+.contentDiv{
+    display: flex;
+    margin: 2%;
+}
+.box1,.box2,.box3,.box4,.box5,.box6,.box7,.box8{
+    background-color: #fff;
+    text-align: center;
+    padding: 3%;
+    margin-bottom: 5%;
+    width: 100%;
+    height: 100px;
+}
+.FirstDiv,.SecoundDiv,.ThirdDiv{
+    float: left;
+    margin-right: 40px;
+    transform: rotate(30deg);
+}
+.SecoundDiv{
+    margin-right: 70px;
+}
+.box1:hover,.box2:hover,.box3:hover,.box4:hover,.box5:hover,.box6:hover,.box7:hover,.box8:hover{
+    color: #fff;
+    background-color: rgb(58, 58, 58);
+    cursor: pointer;
+}
+.Div3{
+    margin: 4%;
+}
+.hDiv{
+    float: left;
+    margin-right: 20%;
+}
+.lblDiv{
+    width: 70%;
+    opacity: 0.5;
+}
+.Sec3{
+    background-color: #28282e;
+    width: 100%;
+    height: 400px;
+}
+.Div4{
+    width: 30%;
+    float: left;
+    margin: 4%;
+    color: #fff;
+}
+.headd1{
+    font-size: 40px;
+    margin-bottom: 15%;
+}
+.divv1{
+    display: flex;
+    padding: 4%;
+    padding-bottom: 1%;
+}
+.divv11{
+    flex: 55%;
+    padding-right: 10%;
+}
+.divv12{
+    flex: 20%;
+}
+.paraopacity{
+    opacity: 0.5;
+    text-transform: uppercase;
+}
+hr{
+    opacity: 0.5;
+}
+.paraupper{
+    text-transform: uppercase;
+    margin-bottom: 5%;
+}
+.pOpacity{
+    opacity: 0.5;
+}
+.divvv1{
+    display: flex;
+    padding: 4%;
+    padding-bottom: 1%;
+    color: #fff;
+    background-image: url(../img/image3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btnn{
+    color: #ef443a;
+    background-color: transparent;
+    border: none;
+    width: 20%;
+    height: 30px;
+    font-size: 11px;
+    margin-left: 40%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.boxx{
+    margin-bottom: 10%;
+    width: 100%;
+    height: 100px;
+}
+.imgg{
+    width: 100px;
+    height: 100px;
+}
+footer{
+    background-color: #28282e;
+    color: #fff;
+    padding-top: 5%;
+}
+.Div5{
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.footerheading{
+    margin-bottom: 3%;
+}
+.footerpara{
+    opacity: 0.6;
+}
+.footerimg{
+    margin-left: 25%;
+    margin-top: 4%;
+    margin-bottom: 8%;
+    width: 50%;
+}
+.footerbtn{
+    background-color: #ef443a;
+    color: #fff;
+    width: 100%;
+    height: 80px;
+    border: none;
+    margin-bottom: 5%;
+}
+.footerContainer{
+    display: flex;
+    opacity: 0.5;
+    padding-left: 5%;
+    padding-bottom: 3%;
+}
+.DD1,.DD2,.DD3,.DD4{
+    flex: 30%;
+}
